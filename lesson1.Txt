@@ -14,3 +14,5 @@ git diff shows the changes in the files between commits
 How might using version control make you more confident to make changes that could break something?
 You can revert to an older version.
 
+Now that you have your workspace set up, what do you want to try using Git for?
+Maintaining source code for two programmers
